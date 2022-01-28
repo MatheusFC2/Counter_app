@@ -1,6 +1,12 @@
-# counter_app
+# Counter_app
 
 A new Flutter project.
+
+![image](https://user-images.githubusercontent.com/69259671/151615183-a228ddd8-d97d-4768-9082-e988b30ff75a.png)
+
+
+
+
 
 ## Getting Started
 
